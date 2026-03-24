@@ -1,0 +1,16 @@
+/*changes the background of the body section to green
+Also sets the font to Arial.*/
+body {
+    background-color: green;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/*creates a box around the main section to red*/
+main {
+    background-color:  red;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
